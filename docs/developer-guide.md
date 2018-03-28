@@ -43,6 +43,6 @@ Please uncomment the following section under [trainer/trainer/frameworks.go](../
 
 ``` go
 if fwName == "custom" {
-	return true, ""
+  return true, ""
 }
 ```
